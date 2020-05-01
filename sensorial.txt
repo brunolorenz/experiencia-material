@@ -1,0 +1,12 @@
+Brilhante
+Fosco
+Opaco
+Transparente
+Quente
+Frio
+reflexivo
+não reflexivo
+leve
+pesado
+áspero
+liso
